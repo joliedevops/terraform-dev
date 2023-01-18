@@ -18,5 +18,5 @@ variable "my_ami" {
 variable "key" {
     description = "aws key"
     type = string
-    default = "class27"
+    default = "class27Key"
     }
